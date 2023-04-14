@@ -6,6 +6,7 @@ img{
     margin-right: auto;
     margin-left: auto;
     display: block;
+    background-size: contain;
 }
 
 h1 {
